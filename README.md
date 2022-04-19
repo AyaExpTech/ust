@@ -11,10 +11,6 @@ AeTOSの規約は[こちら](https://github.com/AyaExpTech/licence/blob/main/AeT
 - わかきゅー制作のUSTは必ず制作者名として「わかきゅー」の表記をお願いします。
 - 配布サイトとして、([https://ayaexptech.jimdofree.com/contents/ust/](https://ayaexptech.jimdofree.com/contents/ust/))を記載してください。
 
-## 配布曲一覧
+## preview USTs 一覧
 - 綾坂こと制作
-  - KING(Kanaria)
-  - もぐもぐYUMMY！(猫又おかゆ)
-  - エゴロック(すりぃ)
-  - フロムトーキョー(夏代孝明)
-  - メイジ・オブ・ヴァイオレット(紫咲シオン)
+  - フロムトーキョー(Game-Size ver.) (夏代孝明)
