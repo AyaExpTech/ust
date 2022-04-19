@@ -1,23 +1,20 @@
-# AyaExp-USTtrove
-綾急技研およびそのメンバーの制作した、歌声合成ソフト「UTAU」向け楽譜(?)ファイルをまとめました。
+# AyaExp-USTtrove  preview & archives
+綾急技研およびそのメンバーの制作した、歌声合成ソフト「UTAU」向け楽譜(?)ファイルをまとめました。 
+- 配布動画未公開のため配布サイトに未掲載の「preview USTs」
+- 配布サイト([https://ayaexptech.jimdofree.com/contents/ust/](https://ayaexptech.jimdofree.com/contents/ust/))にある「archive USTs」
+の両方を配布しています。
 
 ## Licence
 Licence by AeTOS(Type-B)
 AeTOSの規約は[こちら](https://github.com/AyaExpTech/licence/blob/main/AeTOS.md)をご覧ください。
 - 綾坂こと、彼方光が制作したUSTに限り、制作者名として「綾急技研」「AyaExpTech」を表記しても構いません。
 - わかきゅー制作のUSTは必ず制作者名として「わかきゅー」の表記をお願いします。
+- 配布サイトとして、([https://ayaexptech.jimdofree.com/contents/ust/](https://ayaexptech.jimdofree.com/contents/ust/))を記載してください。
 
 ## 配布曲一覧
 - 綾坂こと制作
-  - エゴロック(すりぃ)
-  - メイジ・オブ・ヴァイオレット(紫咲シオン)
-  - もぐもぐYUMMY!(猫又おかゆ)
   - KING(Kanaria)
-- 彼方光制作
-  - 大好きになればいいんじゃない？(すとぷり / Honeyworks) (綾坂こと共作)
-- わかきゅー制作
-  - 45秒(れすぽん)
-  - マオ(まふまふ, かいりきベア)
-  - フクロウさん(すりぃ)
-  - バニー(すりぃ)
-  - キメラ(DECO*27)
+  - もぐもぐYUMMY！(猫又おかゆ)
+  - エゴロック(すりぃ)
+  - フロムトーキョー(夏代孝明)
+  - メイジ・オブ・ヴァイオレット(紫咲シオン)
