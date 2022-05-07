@@ -1,7 +1,7 @@
 # AyaExp-USTtrove  preview & archives
 綾急技研およびそのメンバーの制作した、歌声合成ソフト「UTAU」向け楽譜(?)ファイルをまとめました。 
 - 配布動画未公開のため配布サイトに未掲載の「preview USTs」
-- 配布サイト([https://ayaexptech.jimdofree.com/contents/ust/](https://ayaexptech.jimdofree.com/contents/ust/))にある「archive USTs」
+- 配布サイト([https://ayaexptech.jimdofree.com/contents/ust/](https://ayaexptech.jimdofree.com/contents/ust/))にある「archive USTs」  
 の両方を配布しています。
 
 ## Licence
