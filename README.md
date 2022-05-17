@@ -16,5 +16,3 @@ AeTOSの規約は[こちら](https://github.com/AyaExpTech/licence/blob/main/AeT
 - 綾坂こと制作
   - 「1」(Game-Size ver.) (164)
   - ユメヲカケル！(TV-Size ver.) (マイクスギヤマ・東大路憲太)
-- 綾坂こと・彼方光制作
-  - 群青讃歌(Game-Size ver. / Full ver.) (Eve)
