@@ -11,8 +11,3 @@ AeTOSの規約は[こちら](https://github.com/AyaExpTech/licence/blob/main/AeT
 - 綾坂こと、彼方光が制作したUSTに限り、制作者名として「綾急技研」「AyaExpTech」を表記しても構いません。
 - わかきゅー制作のUSTは必ず制作者名として「わかきゅー」の表記をお願いします。
 - 配布サイトとして、([https://ayaexptech.jimdofree.com/contents/ust/](https://ayaexptech.jimdofree.com/contents/ust/))を記載してください。
-
-## preview USTs 一覧
-- 綾坂こと制作
-  - 「1」(Game-Size ver.) (164)
-  - ユメヲカケル！(TV-Size ver.) (マイクスギヤマ・東大路憲太)
