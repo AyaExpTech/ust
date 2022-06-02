@@ -427,7 +427,7 @@ NoteNum=64
 PreUtterance=
 [#0083]
 Length=240
-Lyric=
+Lyric=R
 NoteNum=64
 PreUtterance=
 [#0084]
@@ -927,7 +927,7 @@ NoteNum=64
 PreUtterance=
 [#0183]
 Length=120
-Lyric=
+Lyric=R
 NoteNum=64
 PreUtterance=
 [#0184]
@@ -1097,7 +1097,7 @@ NoteNum=66
 PreUtterance=
 [#0217]
 Length=120
-Lyric=
+Lyric=R
 NoteNum=66
 PreUtterance=
 [#0218]
@@ -1462,7 +1462,7 @@ NoteNum=64
 PreUtterance=
 [#0290]
 Length=120
-Lyric=
+Lyric=R
 NoteNum=64
 PreUtterance=
 [#0291]
@@ -1527,7 +1527,7 @@ NoteNum=64
 PreUtterance=
 [#0303]
 Length=240
-Lyric=
+Lyric=R
 NoteNum=64
 PreUtterance=
 [#0304]
@@ -1785,4 +1785,20 @@ Length=240
 Lyric=‚ç
 NoteNum=62
 PreUtterance=
+[#0355]
+Length=480
+Lyric=R
+NoteNum=60
+[#0356]
+Length=480
+Lyric=R
+NoteNum=60
+[#0357]
+Length=480
+Lyric=R
+NoteNum=60
+[#0358]
+Length=480
+Lyric=R
+NoteNum=60
 [#TRACKEND]
