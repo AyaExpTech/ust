@@ -6,8 +6,12 @@
 の両方を配布しています。
 
 ## Licence
-Licence by AeTOS(Type-B)  
+Licence by AeTOS(Type-B)
 AeTOSの規約は[こちら](https://github.com/AyaExpTech/licence/blob/main/AeTOS.md)をご覧ください。
-- 綾坂こと、彼方光が制作したUSTは、制作者名として「綾急技研」「AyaExpTech」を表記しても構いません。
-- わかきゅー、しもおち制作のUSTは必ず制作者名としての表記をお願いします。綾急技研の表記は任意です。
+- 以下の表に記載のあるメンバーが制作したUSTは、制作者名に「綾急技研」「AyaExpTech」か制作者名のいずれか、またはその両方を記載してください。
+    - 綾坂こと
+    - 彼方光
+    - しもおち
+- 以下の表に記載のあるメンバーのUSTは必ず制作者名としての表記をお願いします。綾急技研の表記は任意です。
+    - わかきゅー
 - 配布サイトとして、([https://ayaexptech.jimdofree.com/contents/ust/](https://ayaexptech.jimdofree.com/contents/ust/))を記載してください。
