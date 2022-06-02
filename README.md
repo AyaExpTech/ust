@@ -7,7 +7,8 @@
 
 ## Licence
 Licence by AeTOS(Type-B)
-AeTOSの規約は[こちら](https://github.com/AyaExpTech/licence/blob/main/AeTOS.md)をご覧ください。
+AeTOSの規約は[こちら](https://github.com/AyaExpTech/licence/blob/main/AeTOS.md)をご覧ください。  
+UST制作者名は各フォルダのauthor-info.txtをご確認ください。
 - 以下の表に記載のあるメンバーが制作したUSTは、制作者名に「綾急技研」「AyaExpTech」か制作者名のいずれか、またはその両方を記載してください。
     - 綾坂こと
     - 彼方光
