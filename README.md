@@ -13,6 +13,7 @@ UST制作者名は各フォルダのauthor-info.txtをご確認ください。
     - 綾坂こと
     - 彼方光
     - しもおち
+    - 矢作メイ
 - 以下の表に記載のあるメンバーのUSTは必ず制作者名としての表記をお願いします。綾急技研の表記は任意です。
     - わかきゅー
 - 配布サイトとして、([https://ayaexptech.jimdofree.com/contents/ust/](https://ayaexptech.jimdofree.com/contents/ust/))を記載してください。
